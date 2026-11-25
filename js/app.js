@@ -53,3 +53,9 @@ console.log(bank);
 income += 5
 bank += income;
 console.log(bank);
+console.log();
+console.log(10%3);
+let seconds = 130
+let minutes = seconds/60
+console.log(minutes);
+console.log(130%60)
