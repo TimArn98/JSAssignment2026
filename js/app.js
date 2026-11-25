@@ -32,4 +32,24 @@ console.log(--numberOfBottles);
 console.log(--numberOfBottles);
 console.log(--numberOfBottles);
 console.log(--numberOfBottles);
+console.log();
+console.log();
+console.log();
 
+let result1 = 666+666
+console.log(result1);
+let result2 = 666*666
+console.log(result2);
+console.log();
+let bank = 10
+let income = 25
+// month 1
+ bank += income;
+console.log(bank);
+// month 2
+bank += income;
+console.log(bank);
+// month 3 with income increase
+income += 5
+bank += income;
+console.log(bank);
