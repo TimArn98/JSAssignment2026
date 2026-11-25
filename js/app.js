@@ -8,10 +8,21 @@ console.log('first');
 
 let myName = 'Tim'; //declare a variable
 let myAge = 28;
-let myEmail = 'timothy.arnhuvud@medieinstitutet.se';
+let myEmail = 'tim.tim@tim.se';
 let myPhoneNumber = "0721234567";
 
 console.log(myName); //call a variable
 console.log(myAge);
 console.log(myEmail);
 console.log(myPhoneNumber);
+console.log();
+let numberOfBottles = 10
+const line1 = 'green bottles hanging on the wall';
+const line2 = 'and if one green bottle, should accidentally fall, there will be';
+
+console.log(numberOfBottles);
+console.log(line1);
+console.log(numberOfBottles);
+console.log(line1);
+console.log(line2);
+console.log(--numberOfBottles);
